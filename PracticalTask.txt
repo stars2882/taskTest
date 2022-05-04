@@ -1,0 +1,5 @@
+Xpath
+//a[contains(@class, 'home')]/div[@class='button' and contains(text(),'Get in Touch')]
+
+Css locators
+.home-top-section__button-container>.button
